@@ -22,11 +22,14 @@
 - **Substack:** https://crazygamesonline.substack.com/p/why-browser-games-like-crazygames  
 - **Hashnode:** https://hashnode.com/@crazygamesonline  
 - **HackerNoon:** https://hackernoon.com/preview/698727c22fc6ec5079ffca01  
+- **SlideShare:** https://www.slideshare.net/crazygamesonlinebiz?tab=about  
+- **Issuu:** https://issuu.com/crazygamesonline  
 
 ---
 
 ## 🔗 Social & Creator Profiles
-- **GitHub:** https://github.com/playcrazygamesonline  
+- **GitHub Profile:** https://github.com/playcrazygamesonline  
+- **GitHub Repo:** https://github.com/playcrazygamesonline/playcrazygamesonline  
 - **LinkedIn:** https://www.linkedin.com/posts/crazy-games-84982a3ab_excited-to-share-my-gaming-project-i-share-7425954006637731840-peeY  
 - **Bluesky:** https://bsky.app/profile/crazygamesonline.bsky.social  
 - **Pinterest:** https://www.pinterest.com/crazygamesonlinebiz/  
@@ -42,12 +45,12 @@
 
 ---
 
-## 📄 Creative & Publishing Platforms
+## 📄 Creative & Web Presence
 - **Behance:** https://www.behance.net/gallery/243511773/CrazyGames  
-- **SlideShare:** https://www.slideshare.net/crazygamesonlinebiz  
-- **Issuu:** https://issuu.com/crazygamesonline  
-- **Strikingly:** https://crazygamesonline.mystrikingly.com/  
 - **About.me:** https://about.me/crazygamesonline.biz  
+- **Strikingly:** https://crazygamesonline.mystrikingly.com/  
+- **Wakelet Profile:** https://wakelet.com/@CrazyGames57151  
+- **Wakelet Collection:** https://wakelet.com/wake/d7cSN03qkpv3quD5COXBG  
 
 ---
 
