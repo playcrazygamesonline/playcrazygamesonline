@@ -1,13 +1,30 @@
 # 🎮 CrazyGamesOnline – Free Online Browser Games
 
-Welcome to **CrazyGamesOnline**, your destination for playing free online browser games without downloads or installation.
+Welcome to **CrazyGamesOnline**, a growing platform dedicated to free online browser games. We provide high-quality HTML5 games that run smoothly without downloads or installation.
 
-🌐 **Official Website:**  
+Our platform focuses on speed optimization, mobile compatibility, and user-friendly design. From action and racing games to puzzle and arcade classics, CrazyGamesOnline delivers instant entertainment for players worldwide.
+
+🌐 Official Website:  
 https://www.crazygamesonline.biz/
 
 ---
 
-## 🚀 Official & Main Links
+## 📝 About The Project
+
+CrazyGamesOnline is built for gamers who want fast, accessible, and smooth browser-based gaming. We prioritize:
+
+- Free online browser games  
+- No download required  
+- Mobile-friendly experience  
+- Fast loading performance  
+- Clean SEO-optimized structure  
+- Cross-platform compatibility  
+
+Our mission is to make browser gaming simple, fast, and enjoyable.
+
+---
+
+## 🚀 Official & Core Links
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.crazygamesonline.biz/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/playcrazygamesonline)
