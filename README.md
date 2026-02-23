@@ -30,7 +30,8 @@ Welcome to the official link collection for **CrazyGamesOnline.biz**, your go-to
 - [Wakelet Collection](https://wakelet.com/wake/d7cSN03qkpv3quD5COXBG) – Browser gaming highlights.  
 - [Linktree](https://linktr.ee/crazygamesonline.biz) – Quick access to all platforms.  
 - [TED Profile](https://www.ted.com/profiles/51119711) – Talks and presentations.  
-- [FlipHTML5](https://fliphtml5.com/homepage/crazygames/crazy-games/) – Interactive publications.  
+- [FlipHTML5](https://fliphtml5.com/homepage/crazygames/crazy-games/) – Interactive publications. 
+- [Hatena](https://profile.hatena.ne.jp/crazygames/profile)  
 
 ## 🌐 Social & Community
 - [Facebook](https://www.facebook.com/people/CrazyGames/61587639932339/) – Social engagement.  
@@ -77,6 +78,7 @@ Welcome to the official link collection for **CrazyGamesOnline.biz**, your go-to
 - [LiveJournal Post](https://ext-6927666.livejournal.com/353.html) – Blog post.  
 - [LiveJournal Profile](https://ext-6927666.livejournal.com/profile/) – Blogging profile.  
 - [500px](https://500px.com/p/crazygamesonlinebiz) – Photography.  
+
 
 ---
 
